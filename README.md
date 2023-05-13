@@ -2,5 +2,5 @@
 
 ## In Progress
 
-[](./krest_tech_dashboard)
+[](./krest_tech_dashboard.jpg)
 
